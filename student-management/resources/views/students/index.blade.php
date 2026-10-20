@@ -3,7 +3,7 @@
 <div class="d-flex justify-content-between align-items-center
 mb-3">
     <h2>Student List</h2>
-    <a href="{{ route('students.create') }}" class="btn btnprimary">
+    <a href="{{ route('students.create') }}" class="btn btn-primary">
         Add Student
     </a>
 </div>
